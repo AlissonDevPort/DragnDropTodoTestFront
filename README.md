@@ -20,3 +20,11 @@ Este é um projeto de **To-Do List** com funcionalidades de **drag-and-drop** pa
 ## Estrutura do Projeto
 
 A estrutura do projeto foi organizada de forma modular para garantir escalabilidade e manutenibilidade.
+
+## Instruções para rodar o projeto
+
+``` bash
+git clone https://github.com/AlissonDevPort/DragnDropTodoTestFront
+npm install
+npm run dev
+```
